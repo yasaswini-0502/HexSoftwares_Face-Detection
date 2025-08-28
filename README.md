@@ -1,6 +1,6 @@
 # HexSoftwares_Face-Detection
 # Face Detection using OpenCV in Python
-demo video link :
+Demo video link : https://drive.google.com/file/d/1dofgP1ito8iGzOJCMaMPUjTPLLqEfulH/view?usp=drivesdk
 
 Face Detection using OpenCV
 
