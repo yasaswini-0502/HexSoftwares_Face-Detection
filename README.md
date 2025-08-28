@@ -37,8 +37,8 @@ python detect_faces_video.py --prototxt deploy.prototxt --model res10_300x300_ss
 
 Applications
 
-Surveillance systems
-Photo tagging
-User authentication
-Human-computer interaction
+Surveillance systems,
+Photo tagging,
+User authentication,
+Human-computer interaction,
 
