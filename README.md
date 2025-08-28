@@ -17,13 +17,13 @@ Adjustable confidence threshold to filter weak detections
 Outputs detection results directly in the terminal and with bounding boxes on screen
 
 
-Tech Stack
+Tech Stack Usage
 
 Python
 OpenCV
 NumPy
 Imutils
-Usage
+
 
 Run the scripts from the command prompt:
 
